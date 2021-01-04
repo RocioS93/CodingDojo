@@ -1,0 +1,29 @@
+Div not only div section of html, for organixation, it also groups tags for css
+can use class atribute for "almost" every tag
+
+<!--HTML Comment-->
+/*CSS Comment*/
+
+
+Classes start with a .
+Classes are reusable, its best practice to use logical names
+!!!!Clases take piority over tag modifications!!!!
+Can add more than one class on a tag
+Ad them next to each other with a space inbetween the Quotaion marks EX. "textred bigtext"
+
+
+
+!!!!!!!BOTH HTML AND CSS ARE READ TOP TO BOTTOM!!!!!!!!
+
+
+id's are just like classes, but you can't reuse them and have a highter priority than anything else
+
+!!!!!!Priority Level!!!!!!
+1. ID
+2. Class
+3. Tag
+
+Id's usually named specificly for a tag 
+<tag (id)>
+stars with #name in Css
+!!!!!!!!CAN ONLY HAVE ONE ID PER TAG!!!!!!!!!

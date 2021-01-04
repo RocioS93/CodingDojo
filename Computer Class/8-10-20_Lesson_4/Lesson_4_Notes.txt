@@ -1,0 +1,16 @@
+div tag is divider used to organize code even more and use css
+Css styles html
+3 wys to add css, less organized to best organized
+
+1. Inline css  <h1 style="color:blue">This is a heading</h1>
+Atribute must be equal to a quotation value
+
+2. Internal CSS    h1 { color: red; }  in head tag, will make 
+everythig color chosen 
+
+3. External Css same as internal, but loaded from another file 
+(Most used!!!!)
+
+
+
+<!--comments are made using will not show on webpage-->

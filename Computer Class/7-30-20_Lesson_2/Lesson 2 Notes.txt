@@ -1,0 +1,6 @@
+Image tag does not have the forward slash this is because they use atributes
+src- Image file location 
+alt- Writing incase image not loaded
+(If not found in same folder, must have folder name/image name)
+If found in prev folder add ../image name (add until in folder)
+br adds an space betrwwen two lines of code

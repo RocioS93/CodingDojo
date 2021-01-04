@@ -1,0 +1,16 @@
+Intro Notes
+3 programming languages to make a basic website: HTML, CSS, and Javascript
+    We are going over HTML and tags (another word for tags are elements)
+    the core of an html file is the doctype tag, html tag, head tag, body tag
+    to view an HTML file, you need a browser to see what it creates. 
+     To see the literal file with it's tags, you will need to use a text
+      editor like notepad or VSCode
+    the body holds most if not all elements
+tags have a start and end. for example the <h> tag. to start, 
+use <h#1-6> and end </h#1-6> with a forward slash
+p tag stands for paragraph. it is usually for normal text
+!the computer reads the html tags from top to bottom on a  html file!
+ If writing alot of cone inset text between tags with space before and after
+  <p>
+    example of text
+  </p>

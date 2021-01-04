@@ -1,0 +1,27 @@
+Ol or Ul(Ordered or Unordered)
+Both accept an Li tAG, which stands for list item
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Word</li>
+        <li>Word</li>
+        <li>Word</li>
+    </ul>
+
+     <h2>Ordered List</h2>
+    <ol>
+        <li>Spring</li>
+        <li>Summer</li>
+        <li>Fall</li>
+        <li>Winter</li>
+    </ol>
+
+
+    <a href=""></a>
+    like p tag except its clickable and sends u to a link
+    also it doesnt have a return space(Enter) 
+    will be right next to the tag
+
+
+    
+    <a href="../7-30-20_Lesson 2/Homework/Cats/CatHW.html">Lesson 2 Cat HW</a>
+    When adding a link to another file, do not add the link, rather add as above
